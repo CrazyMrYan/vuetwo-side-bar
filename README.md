@@ -6,6 +6,8 @@
 
 
 
+![](http://crazy.lovemysoul.vip/images/side-bar.gif)
+
 ## install
 
 ```shell
