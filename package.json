@@ -1,6 +1,6 @@
 {
   "name": "vuetwo-side-bar",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "this is vue module",
   "main": "dist/sidebar.min.js",
   "scripts": {
