@@ -6,7 +6,8 @@
 
 
 
-![](http://crazy.lovemysoul.vip/images/side-bar.gif)
+![verticle](http://crazy.lovemysoul.vip/images/side-bar.gif)
+![straight](http://crazy.lovemysoul.vip/images/straight.gif)
 
 ## 下载
 
