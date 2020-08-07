@@ -112,7 +112,7 @@ getClick(data){
 | BackgroundColor       | *String* | false    | #000                 | background color            |
 | activeColor           | *String* | false    | #2196f3              | Select the color            |
 | activeBackgroundColor | *String* | false    | rgba(255,255,255,.1) | Select the background color |
-| type                  | *String* | false    | verticle             | Display type                |
+| type                  | *String* | false    | verticle             | Display type  `straight || verticle`               |
 
 
 
