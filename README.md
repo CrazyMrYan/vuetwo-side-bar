@@ -6,8 +6,8 @@
 
 
 
-![](http://crazy.lovemysoul.vip/images/side-bar.gif)
-![](http://crazy.lovemysoul.vip/images/straight.gif)
+![verticle](http://crazy.lovemysoul.vip/images/side-bar.gif)
+![straight](http://crazy.lovemysoul.vip/images/straight.gif)
 
 ## install
 
