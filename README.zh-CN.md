@@ -112,6 +112,7 @@ getClick(data){
 | BackgroundColor       | *String* | false    | #000                 | 背景颜色     |
 | activeColor           | *String* | false    | \#2196f3             | 选中字体颜色 |
 | activeBackgroundColor | *String* | false    | rgba(255,255,255,.1) | 选中背景颜色 |
+| type                  | *String* | false    | verticle             | 展示类型     |
 
 
 

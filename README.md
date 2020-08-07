@@ -110,19 +110,33 @@ getClick(data){
 | activeIndex           | *Number* | true     | null                 | Select the subscript        |
 | color                 | *String* | false    | #fff                 | font color                  |
 | BackgroundColor       | *String* | false    | #000                 | background color            |
-| activeColor           | *String* | false    | \#2196f3             | Select the color            |
+| activeColor           | *String* | false    | #2196f3              | Select the color            |
 | activeBackgroundColor | *String* | false    | rgba(255,255,255,.1) | Select the background color |
+| type                  | *String* | false    | verticle             | Display type                |
 
 
 
 ## event
 
 * **click-sidebar**
-
-  * describe : Clicking returns the index and data of the selected item
-
+  * describe : Click the trigger to return with data and index and event source
   * returned value
-    * data
-      * `activeIndex` : Select the subscript
-      * `item` : Select data item
+    * `e` : event source
+    * `d` : Select data item
+    * `i` : Select the subscript
+
+* **click-mouseover**
+  * describe : Remove the trigger to return data, indexes, and event sources
+  * returned value
+    * `e` : event source
+    * `d` : Select data item
+    * `i` : Select the subscript
+
+
+* **click-mouseout**
+  * describe : Moving into a trigger returns data, indexes, and event sources
+  * returned value
+    * `e` : event source
+    * `d` : Select data item
+    * `i` : Select the subscript
 
