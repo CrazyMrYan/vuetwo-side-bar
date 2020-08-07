@@ -7,6 +7,7 @@
 
 
 ![](http://crazy.lovemysoul.vip/images/side-bar.gif)
+![](http://crazy.lovemysoul.vip/images/straight.gif)
 
 ## install
 
